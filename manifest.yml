@@ -1,5 +1,5 @@
 ---
 applications:
-- name:    hello-node
-  host:    hello-node
+- name:    marketspacemarkets
+  host:    marketspacemarkets
   memory:  128M
